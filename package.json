@@ -1,0 +1,18 @@
+{
+    "packageManager": "pnpm@6.32.3",
+    "engines": {
+        "node": ">=16",
+        "pnpm": ">=6"
+    },
+    "type": "module",
+    "devDependencies": {
+        "@tsconfig/recommended": "^1.0.1",
+        "@types/node": "^16",
+        "@typescript-eslint/eslint-plugin": "^5.14.0",
+        "@typescript-eslint/parser": "^5.14.0",
+        "eslint": "^8.11.0",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "^2.5.1",
+        "typescript": "^4.6.2"
+    }
+}
